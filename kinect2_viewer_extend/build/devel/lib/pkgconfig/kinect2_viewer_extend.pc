@@ -1,0 +1,8 @@
+prefix=/home/abhijit/catkin_ws/src/iai_kinect2/kinect2_viewer_extend/build/devel
+
+Name: kinect2_viewer_extend
+Description: Description of kinect2_viewer_extend
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/abhijit/catkin_ws/src/iai_kinect2/kinect2_viewer_extend/build/devel/lib 
+Requires: 

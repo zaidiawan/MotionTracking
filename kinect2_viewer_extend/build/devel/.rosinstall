@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abhijit/catkin_ws/src/iai_kinect2/kinect2_viewer_extend/build/devel/setup.sh

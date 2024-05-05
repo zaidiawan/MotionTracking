@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kinect2_viewer_extend")
+set(kinect2_viewer_extend_MAINTAINER "Thiemo Wiedemeyer <wiedemeyer@informatik.uni-bremen.de>")
+set(kinect2_viewer_extend_DEPRECATED "")
+set(kinect2_viewer_extend_VERSION "0.0.1")
+set(kinect2_viewer_extend_BUILD_DEPENDS "roscpp" "rostime" "std_msgs" "sensor_msgs" "message_filters" "image_transport" "compressed_image_transport" "compressed_depth_image_transport" "kinect2_bridge" "libpcl-all-dev" "cv_bridge")
+set(kinect2_viewer_extend_RUN_DEPENDS "message_runtime" "roscpp" "rostime" "std_msgs" "sensor_msgs" "message_filters" "image_transport" "compressed_image_transport" "compressed_depth_image_transport" "libpcl-all-dev" "libpcl-all" "cv_bridge")
+set(kinect2_viewer_extend_BUILDTOOL_DEPENDS "catkin")
